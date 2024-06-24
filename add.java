@@ -17,9 +17,3 @@ public class add {
         System.out.println(numbers.size());
     }
 }
-*/
-output:
-[one,two,three,four,five]
-[]
-[six,seven]
- 2   
