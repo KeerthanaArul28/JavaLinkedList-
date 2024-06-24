@@ -15,3 +15,6 @@ public class addlast {
 
     
 }
+/*
+output:
+[Viki,Shibi,Arun,Harish,Chandru]
