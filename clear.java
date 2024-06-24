@@ -18,3 +18,7 @@ public class clear {
     }
     
 }
+*/
+output:
+[]
+[Five,Six]
