@@ -14,3 +14,7 @@ public class removeparticularobject {
     }
     
 }
+*/
+output:
+[c,C++,Java,Angular]
+[c,C++,React,Angular]
