@@ -12,3 +12,6 @@ public class removefirst {
     }
     
 }
+/*
+output:
+[astu,viki,arun]
