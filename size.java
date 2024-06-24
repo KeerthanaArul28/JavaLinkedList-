@@ -12,3 +12,7 @@ public class size {
     }
     
 }
+*/
+output:
+4
+    /*
