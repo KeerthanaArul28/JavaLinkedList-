@@ -12,3 +12,7 @@ public class removelast {
     }
     
 }
+*/
+output:
+[Purple,Yellow,Pink]
+ /*   
