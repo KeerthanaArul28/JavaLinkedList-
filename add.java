@@ -17,3 +17,9 @@ public class add {
         System.out.println(numbers.size());
     }
 }
+*/
+output:
+[one,two,three,four,five.five]
+    []
+    After clearing the elements:[six,seven]
+    2
