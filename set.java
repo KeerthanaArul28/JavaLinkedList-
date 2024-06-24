@@ -12,3 +12,7 @@ public class set {
     }
     
 }
+*/
+output:
+[Tamil,English,Telugu,Malayalam,kanada]
+    /*
