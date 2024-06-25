@@ -18,3 +18,8 @@ public class ifelse {
         }
     }
 }
+//output:
+/*
+[mars, uranus, jupiter, neptune]
+True
+    */
