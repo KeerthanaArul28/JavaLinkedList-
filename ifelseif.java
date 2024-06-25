@@ -22,3 +22,8 @@ public class ifelseif {
         }
     }
 }
+//output:
+/*
+[blue, pink, purple, yellow]
+colors is appear
+*/
