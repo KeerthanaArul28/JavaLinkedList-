@@ -11,3 +11,7 @@ public class getlast {
     }
     
 }
+//output:
+/*
+Purple
+*/
