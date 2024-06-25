@@ -17,7 +17,15 @@ public class condition {
     }
     
 }
-
+}
+//output:
+/*
+[Nandhu, Lothi, Kavinu, Pavi]
+[Nandhu, Lothi, Kavinu, Pavi]
+[Nandhu, Lothi, Kavinu, Pavi]
+[Nandhu, Lothi, Kavinu, Pavi]
+[Nandhu, Lothi, Kavinu, Pavi]
+*/
     
 
 
@@ -25,5 +33,5 @@ public class condition {
 
         
 
-    }
+    
     
