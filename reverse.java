@@ -13,5 +13,10 @@ public class reverse {
 
 }
     }
+//output:
+/*
+[Banana, Apple, Mango, Pineapple]
+[Pineapple, Mango, Apple, Banana]
+    */
     
 
